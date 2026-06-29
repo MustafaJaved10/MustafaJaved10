@@ -15,12 +15,14 @@ Currently seeking a Python Backend Internship to contribute to real-world projec
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 | Area | Skills |
 |------|--------|
-| Languages | Python, C++ (Advanced) |
-| Concepts | OOP, DSA (BST, Linked Lists, Trees) |
+| Languages | Python, C++, SQL |
+| Libraries | NumPy |
+| Data Formats | JSON |
+| Concepts | Programming Fundamentals (PF), Object-Oriented Programming (OOP), Data Structures & Algorithms (BST, Linked Lists, Trees) |
 | Learning | REST APIs, Databases, Machine Learning |
 | Tools | Git, GitHub, VS Code, Jupyter Notebook |
 
