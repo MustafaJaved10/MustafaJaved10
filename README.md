@@ -9,9 +9,7 @@ mustafajaved156@gmail.com | +92-311-7755542
 
 ## About Me
 
-I'm a passionate CS student with strong hands-on experience in Python and C++, focused on OOP and Data Structures & Algorithms. I've built multiple end-to-end console applications across 4 semesters and I'm actively expanding into backend development, REST APIs, and databases.
-
-Currently seeking a Python Backend Internship to contribute to real-world projects.
+Computer Science student with practical experience in Python, C++, Object-Oriented Programming, and Data Structures & Algorithms. Developed multiple software projects demonstrating strong programming fundamentals and problem-solving skills. Currently expanding expertise in Backend Development, REST APIs, Databases, and Artificial Intelligence & Machine Learning.
 
 ---
 
